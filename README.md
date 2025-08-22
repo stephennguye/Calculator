@@ -5,7 +5,7 @@ This repository contains a simple **web-based calculator** built using **HTML, C
 ---
 
 ## 📸 Demo
-![Calculator Demo](Calculator/Calculator.gif)
+![Calculator Demo](Calculator.gif)
 
 ---
 
